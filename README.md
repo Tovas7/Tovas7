@@ -90,7 +90,7 @@ _Feb 2025_
   <a href="mailto:raphaeltovas6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/tovas7/" target="_blank">
+  <a href="https://www.linkedin.com/in/muluken-zewdu-a1b846357" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/tovaswork" target="_blank">
