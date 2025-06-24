@@ -93,7 +93,7 @@ _Feb 2025_
   <a href="https://www.linkedin.com/in/muluken-zewdu-a1b846357" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/tovaswork" target="_blank">
+  <a href="https://twitter.com/MulukenZ13" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://tovas7.github.io" target="_blank">
