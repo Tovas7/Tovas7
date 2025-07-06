@@ -1,4 +1,4 @@
-# Hi, I'm Tovas7 👋
+# Hi, I'm Muluken Zewdu 👋
 
 Welcome to my GitHub! I'm a passionate software developer specializing in building modern, efficient, and scalable solutions. My expertise spans automation tools, web development, and user-centric applications. I am committed to delivering high-quality projects that solve real-world problems and enhance productivity.
 
