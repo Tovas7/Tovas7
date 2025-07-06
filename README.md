@@ -1,52 +1,50 @@
-# Hi, I'm Muluken Zewdu 👋
+# Muluken Zewdu | Software Developer 👨‍💻
 
-Welcome to my GitHub! I'm a passionate software developer specializing in building modern, efficient, and scalable solutions. My expertise spans automation tools, web development, and user-centric applications. I am committed to delivering high-quality projects that solve real-world problems and enhance productivity.
+Passionate about crafting efficient, scalable solutions through clean code and innovative thinking. I specialize in automation tools, web development, and creating user-centric applications that solve real problems.
 
----
+## 🚀 Featured Projects
 
-## 💼 Featured Projects
+### NeatBot | File Organization Automation
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=github)](https://github.com/Tovas7/NeatBot)  
+Intelligent file management tool that automatically organizes, deduplicates, and backs up your files with a modern UI.  
+**Tech:** Python • Automation • Desktop Apps
 
-### [NeatBot](https://github.com/Tovas7/NeatBot)
-Effortlessly organize your files and folders with NeatBot—an automation tool that sorts files by type or date, detects duplicates, and creates backups. Designed with a modern interface and zero technical hassle, NeatBot keeps your computer clutter-free with just a few clicks.
-- **Tech:** Python
+### The Scope | Modern News Aggregator
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=github)](https://github.com/Tovas7/The_Scope)  
+Real-time multilingual news platform with personalized filtering and dark mode.  
+**Tech:** Next.js • TypeScript • API Integration
 
-### [The_Scope](https://github.com/Tovas7/The_Scope)
-A fast and responsive news aggregator built with Next.js. Features real-time news updates from multiple sources, multi-language support, category-based filtering, dark mode, and SEO optimization for a personalized, multilingual reading experience.
-- **Tech:** TypeScript, JavaScript, CSS, HTML
+### TripPlanner | Travel Itinerary Manager
+[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=github)](https://github.com/Tovas7/TripPlanner)  
+End-to-end trip organization system for itinerary management and booking optimization.  
+**Tech:** React • Node.js • MongoDB
 
-### [Personal_Portfolio](https://github.com/Tovas7/Personal_Portfolio)
-A modern and responsive personal portfolio website that highlights my skills, projects, and experience in a clean, customizable layout. Built with TypeScript for seamless updates and deployment.
-- **Tech:** TypeScript, CSS, JavaScript
+## 💻 Technical Stack
 
-### [TripPlanner](https://github.com/Tovas7/TripPlanner)
-*An intuitive trip planning application designed to help users organize travel itineraries, manage bookings, and optimize their journeys—all in one place.*
+**Languages**  
+Python • TypeScript • JavaScript • CSS3 • HTML5
 
----
+**Frameworks & Tools**  
+Next.js • React • Git • GitHub Actions • Figma
 
-## 💡 Skills & Technologies
+**Specializations**  
+Process Automation • Web Applications • UI/UX Design • Performance Optimization
 
-- **Languages:** Python, TypeScript, JavaScript, CSS, HTML
-- **Frameworks:** Next.js, React
-- **Tools:** Git, GitHub, Automation Workflows
-- **Areas of Interest:** Automation, Productivity Tools, Web Applications, UI/UX
+## 📈 GitHub Metrics
 
----
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tovas7&show_icons=true&count_private=true&hide_border=true&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tovas7&layout=compact&hide_border=true&theme=default)
 
-## 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tovas7&show_icons=true&theme=default" alt="Tovas7's GitHub stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tovas7&layout=compact&theme=default" alt="Top languages" />
-</p>
+## 📫 Let's Connect
 
----
-
-## 🌐 Connect with Me
-
-- [LinkedIn](#) <!-- Replace with your actual LinkedIn URL -->
-- [Twitter](#)  <!-- Replace with your actual Twitter/X URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](YOUR_TWITTER_URL)  
+✉️ [Email Me](mailto:YOUR_EMAIL)
 
 ---
 
-Thank you for visiting my profile! If you're interested in collaborating or would like to discuss new opportunities, feel free to reach out.
+⭐ From [Muluken Zewdu](https://github.com/Tovas7)
