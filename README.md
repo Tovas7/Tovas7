@@ -41,9 +41,9 @@ Process Automation • Web Applications • UI/UX Design • Performance Optimiz
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](YOUR_LINKEDIN_URL)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](YOUR_TWITTER_URL)  
-✉️ [Email Me](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/muluken-zewdu-a1b846357)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](www.x.com/MulukenZ13)  
+✉️ [Email Me](mailto:raphaeltovas6@gmail.com)
 
 ---
 
