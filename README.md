@@ -46,5 +46,3 @@ Process Automation • Web Applications • UI/UX Design • Performance Optimiz
 ✉️ [Email Me](mailto:raphaeltovas6@gmail.com)
 
 ---
-
-⭐ From [Muluken Zewdu](https://github.com/Tovas7)
