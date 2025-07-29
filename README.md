@@ -56,7 +56,7 @@ Here's a snapshot of my core technical stack:
 * [cite_start]Developed a full-stack dormitory management system (React, Node.js) to automate room assignments and maintenance requests[cite: 21].
 * [cite_start]Collaborated with university staff to gather requirements, significantly improving administrative efficiency through a tailored software solution[cite: 22].
 
-### Software Engineer
+### Software Development Team Member
 **Gafat Aerospace Engineering Development Center** | Oct 2021 - Feb 2025
 * [cite_start]Designed and optimized backend systems and databases to support aerospace research data and administrative workflows[cite: 15].
 * [cite_start]Developed and integrated APIs for project management and real-time data handling across internal systems[cite: 16].
