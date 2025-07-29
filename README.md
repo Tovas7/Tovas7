@@ -1,48 +1,122 @@
-# Muluken Zewdu | Software Developer 👨‍💻
+# Muluken Zewdu (Tovas7)
 
-Passionate about crafting efficient, scalable solutions through clean code and innovative thinking. I specialize in automation tools, web development, and creating user-centric applications that solve real problems.
+---
 
-## 🚀 Featured Projects
+### Software Engineer | Full Stack Developer | AI Adventurer
 
-### NeatBot | File Organization Automation
-[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=github)](https://github.com/Tovas7/NeatBot)  
-Intelligent file management tool that automatically organizes, deduplicates, and backs up your files with a modern UI.  
-**Tech:** Python • Automation • Desktop Apps
+---
 
-### The Scope | Modern News Aggregator
-[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=github)](https://github.com/Tovas7/The_Scope)  
-Real-time multilingual news platform with personalized filtering and dark mode.  
-**Tech:** Next.js • TypeScript • API Integration
+## 👋 Hello World!
 
-### TripPlanner | Travel Itinerary Manager
-[![GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=github)](https://github.com/Tovas7/TripPlanner)  
-End-to-end trip organization system for itinerary management and booking optimization.  
-**Tech:** React • Node.js • MongoDB
+I'm Muluken Zewdu, a passionate **Software Engineer** and **Full Stack Developer** with a deep dive into **AI-driven solutions**. Based in Addis Ababa, Ethiopia, I thrive on building robust, scalable applications and solving complex challenges with innovative code.
 
-## 💻 Technical Stack
+---
 
-**Languages**  
-Python • TypeScript • JavaScript • CSS3 • HTML5
+## 🚀 Professional Summary
 
-**Frameworks & Tools**  
-Next.js • React • Git • GitHub Actions • Figma
+A results-driven **Full Stack Developer** specializing in the **MERN stack**, I excel in crafting **scalable web solutions**, **real-time applications**, and robust **API integrations**. My proven expertise spans diverse domains, including **edtech** and **aerospace systems**, where I've focused on optimizing **performance**, enhancing **UI/UX**, and delivering advanced **3D visualizations**. I am committed to leveraging cutting-edge technology to drive innovation and create impactful, user-centric products that solve real-world problems.
 
-**Specializations**  
-Process Automation • Web Applications • UI/UX Design • Performance Optimization
+---
 
-## 📈 GitHub Metrics
+## 🛠️ Technical Proficiencies
 
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tovas7&show_icons=true&count_private=true&hide_border=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tovas7&layout=compact&hide_border=true&theme=default)
+Here's a snapshot of my core technical stack:
 
-</div>
+**Languages:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-## 📫 Let's Connect
+**Frameworks & Libraries:**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/muluken-zewdu-a1b846357)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?logo=twitter)](www.x.com/MulukenZ13)  
-✉️ [Email Me](mailto:raphaeltovas6@gmail.com)
+**Databases:**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & Methodologies:** Git, REST API, Clean Architecture, Design Patterns, SOLID Principles, Agile Methodologies
+
+---
+
+## 💼 Experience
+
+### Software Engineer Intern
+**Debre Markos University** | June 2024 - Sep 2024
+* [cite_start]Developed a full-stack dormitory management system (React, Node.js) to automate room assignments and maintenance requests[cite: 21].
+* [cite_start]Collaborated with university staff to gather requirements, significantly improving administrative efficiency through a tailored software solution[cite: 22].
+
+### Software Engineer
+**Gafat Aerospace Engineering Development Center** | Oct 2021 - Feb 2025
+* [cite_start]Designed and optimized backend systems and databases to support aerospace research data and administrative workflows[cite: 15].
+* [cite_start]Developed and integrated APIs for project management and real-time data handling across internal systems[cite: 16].
+* [cite_start]Produced high-fidelity 3D models, renderings, and simulations for Solid Motor Rocket components, enhancing design validation and presentations[cite: 17].
+
+---
+
+## 🚀 Projects
+
+* **Notecraft | [cite_start]Note-Taking App** [cite: 24]
+    * [cite_start]A performant note-taking web app with Markdown support and offline capabilities built using Next.js[cite: 26].
+    * [cite_start]**Tech:** Next.js, TypeScript [cite: 27]
+    * [cite_start][Repository](https://github.com/Tovas7/NoteCraft) [cite: 25]
+
+* **TripPlanner | [cite_start]AI-Powered Travel Itinerary Generator** [cite: 28]
+    * [cite_start]Designed an AI-powered tool creating personalized trip plans with smart scheduling, interactive maps, and real-time adjustments[cite: 30].
+    * [cite_start]**Tech:** Next.js, TypeScript, Tailwind CSS [cite: 31]
+    * [cite_start][Repository](https://github.com/Tovas7/TripPlanner) [cite: 29]
+
+* [cite_start]**Debre Tabor University E-Learning** (2024) [cite: 32, 33]
+    * [cite_start]A MERN stack e-learning platform with course management, quizzes, and real-time notifications[cite: 34].
+
+---
+
+## 📈 My GitHub Activity
+
+Get a glimpse of my recent contributions and overall activity on GitHub. These statistics highlight my commitment to continuous development and collaboration.
+
+[![Tovas7 GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tovas7&show_icons=true&count_private=true&hide_title=true&hide_rank=true&theme=radical&custom_title=My%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tovas7&theme=radical)](https://git.io/streak-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tovas7&layout=compact&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🎓 Education
+
+**Debre Tabor University**
+BSC in Computer Science | [cite_start]GPA: 3.56/4.0 [cite: 8, 9]
+
+---
+
+## 📍 Location
+
+[cite_start]Addis Ababa, Ethiopia [cite: 3]
+
+---
+
+## 🔗 Connect with Me
+
+I'm always open to discussing new projects, potential collaborations, or exciting opportunities in software engineering and AI. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muluken-zewdu-a1b846357)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Tovas7)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:raphaeltovas6@gmail.com)
+[![Phone](https://img.shields.io/badge/-Call-28A745?style=flat-square&logo=phone&logoColor=white)](tel:+251961061510)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tovas7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
