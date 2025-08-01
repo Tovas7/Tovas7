@@ -53,31 +53,31 @@ Here's a snapshot of my core technical stack:
 
 ### Software Engineer Intern
 **Debre Markos University** | June 2024 - Sep 2024
-* [cite_start]Developed a full-stack dormitory management system (React, Node.js) to automate room assignments and maintenance requests[cite: 21].
-* [cite_start]Collaborated with university staff to gather requirements, significantly improving administrative efficiency through a tailored software solution[cite: 22].
+* Developed a full-stack dormitory management system (React, Node.js) to automate room assignments and maintenance requests.
+* Collaborated with university staff to gather requirements, significantly improving administrative efficiency through a tailored software solution.
 
 ### Software Development Team Member
 **Gafat Aerospace Engineering Development Center** | Oct 2021 - Feb 2025
-* [cite_start]Designed and optimized backend systems and databases to support aerospace research data and administrative workflows[cite: 15].
-* [cite_start]Developed and integrated APIs for project management and real-time data handling across internal systems[cite: 16].
-* [cite_start]Produced high-fidelity 3D models, renderings, and simulations for Solid Motor Rocket components, enhancing design validation and presentations[cite: 17].
+* Designed and optimized backend systems and databases to support aerospace research data and administrative workflows.
+* Developed and integrated APIs for project management and real-time data handling across internal systems.
+* Produced high-fidelity 3D models, renderings, and simulations for Solid Motor Rocket components, enhancing design validation and presentations.
 
 ---
 
 ## 🚀 Projects
 
-* **Notecraft | [cite_start]Note-Taking App** [cite: 24]
-    * [cite_start]A performant note-taking web app with Markdown support and offline capabilities built using Next.js[cite: 26].
-    * [cite_start]**Tech:** Next.js, TypeScript [cite: 27]
-    * [cite_start][Repository](https://github.com/Tovas7/NoteCraft) [cite: 25]
+* **Notecraft | Note-Taking App** 
+    * A performant note-taking web app with Markdown support and offline capabilities built using Next.js[cite: 26].
+    * **Tech:** Next.js, TypeScript 
+    * [Repository](https://github.com/Tovas7/NoteCraft) 
 
-* **TripPlanner | [cite_start]AI-Powered Travel Itinerary Generator** [cite: 28]
-    * [cite_start]Designed an AI-powered tool creating personalized trip plans with smart scheduling, interactive maps, and real-time adjustments[cite: 30].
-    * [cite_start]**Tech:** Next.js, TypeScript, Tailwind CSS [cite: 31]
-    * [cite_start][Repository](https://github.com/Tovas7/TripPlanner) [cite: 29]
+* **TripPlanner | AI-Powered Travel Itinerary Generator** 
+    * Designed an AI-powered tool creating personalized trip plans with smart scheduling, interactive maps, and real-time adjustments.
+    * **Tech:** Next.js, TypeScript, Tailwind CSS 
+    * [Repository](https://github.com/Tovas7/TripPlanner) 
 
-* [cite_start]**Debre Tabor University E-Learning** (2024) [cite: 32, 33]
-    * [cite_start]A MERN stack e-learning platform with course management, quizzes, and real-time notifications[cite: 34].
+* **Debre Tabor University E-Learning** (2024) 
+    * A MERN stack e-learning platform with course management, quizzes, and real-time notifications.
 
 ---
 
@@ -94,13 +94,13 @@ Get a glimpse of my recent contributions and overall activity on GitHub. These s
 ## 🎓 Education
 
 **Debre Tabor University**
-BSC in Computer Science | [cite_start]GPA: 3.56/4.0 [cite: 8, 9]
+Bsc in Computer Science | GPA: 3.56/4.0 
 
 ---
 
 ## 📍 Location
 
-[cite_start]Addis Ababa, Ethiopia [cite: 3]
+Addis Ababa, Ethiopia 
 
 ---
 
