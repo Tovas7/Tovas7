@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Computer Science student** at Debre Tabor University and a passionate **Full Stack Developer** with a strong foundation in the **MERN stack** and **Laravel**.
+I'm a **Computer Science Graduate** from Debre Tabor University and a passionate **Full Stack Developer** with a strong foundation in the **MERN stack** and **Laravel**.
 
 - 🔭 I’m currently working on scalable web and mobile solutions.
 - 🌱 I’m deeply interested in **Real-time Applications, API Design, and 3D Visualization**.
