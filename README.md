@@ -79,7 +79,6 @@ I'm a **Computer Science Graduate** from Debre Tabor University and a passionate
 | **[NeatBot - File Automation Tool](https://github.com/Tovas7/NeatBot)** | A professional desktop application to automatically organize cluttered files and folders. | Python, Electron (?) |
 | **[Fridge Track](https://github.com/Tovas7/fridge-track)** | A smart food inventory system with expiration alerts, barcode scanning, and AI suggestions to reduce waste. | React Native, Node.js, AI API |
 
-*(Replace `your-repo-name` with the actual links to your project repositories)*
 
 ---
 
